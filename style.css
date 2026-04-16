@@ -55,5 +55,7 @@ footer {
 }
 
 img {
-width: 250px;
+width: 200px;
+border-radius: 10px;
+margin: 10px;
 }
